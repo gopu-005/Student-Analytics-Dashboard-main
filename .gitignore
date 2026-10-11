@@ -1,0 +1,6 @@
+backend/.env
+backend/firebase-service-account.json
+backend/test_github.py
+*.json.key
+backend/venv
+backend/__pycache__
